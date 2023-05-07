@@ -1,0 +1,7 @@
+2023-03-19T16:21:18.085Z [info] [Logging Appender] : Server running on port 3000
+2023-03-19T16:52:53.015Z [info] [Logging Appender] : Server running on port 3000
+2023-03-19T23:53:55.890Z [debug] [Logging Appender] : undefined
+2023-03-19T23:53:55.890Z [debug] [Logging Appender] : [object Object]
+2023-03-19T23:53:55.987Z [debug] [Logging Appender] : results:
+2023-03-19T23:54:14.520Z [debug] [Logging Appender] : "5ecb1aad-d6ff-413c-83cd-f977e29658f1"
+2023-03-19T23:54:15.413Z [debug] [Logging Appender] : {"username":"root","userId":"5ecb1aad-d6ff-413c-83cd-f977e29658f1","iat":1679270052,"exp":1679270952}
